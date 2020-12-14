@@ -1,0 +1,15 @@
+_________________________________________________________________
+  IIII   IIIIII   II   II    IIII   II    II  IIIIII  II IIIII   
+ II  II  II   II  II  II    II  II  III   II III  III II II   II 
+III  III II  II   II II    III  III II II II III  III II II    II
+IIIIIIII IIIIII   IIIII    IIIIIIII II  IIII III  III II II    II
+III  III II  III  II  III  III  III II   III III  III II II   II 
+III  III II  IIII II   III III  III II    II  IIIIII  II IIIII   ©
+_________________________________________________________________
+
+
+_______________ARKANOID - INSTRUCOES________________________________
+Tecla Esc     ( Esc ) - Encerra o jogo a qualquer momento.
+Seta Direita  ( -> )  - Movimenta a Vaus uma posicao para a Direita
+Seta Esquerda ( <- )  - Movimenta a Vaus uma posicao para a Esquerda
+____________________________________________________________________
